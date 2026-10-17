@@ -12,14 +12,14 @@ Tasarımdan backend geliştirmeye geçiyorum. **Java ve Spring Boot** ile REST A
 **Veri:** PostgreSQL · Flyway · SQL Server
 **Test:** JUnit 5 · Mockito · Testcontainers
 **DevOps:** Docker · Docker Compose · GitHub Actions · Linux (Ubuntu) · Nginx · Git
-**Diğer:** C# / .NET (Windows Forms) · HTML · CSS · JavaScript
+**Diğer:** JDA (Discord botları) · C# / .NET (Windows Forms) · HTML · CSS · JavaScript
 
 ## Öne çıkan projeler
 
 | Proje | Ne yapıyor | Teknolojiler |
 |---|---|---|
 | [site-api](https://github.com/Semiheren05/site-api) | Web sitemin backend'i: JWT ile kimlik doğrulama, roller, standart hata yanıtları, entegrasyon testleri, CI | Java 21, Spring Boot 3, PostgreSQL, Testcontainers, Docker |
-| [Sinema-Otomasyonu](https://github.com/Semiheren05/Sinema-Otomasyonu) | Sinema yönetim ve biletleme sistemi: seans planlama, koltuk seçimi, satış, raporlama | C#, SQL Server |
+| [discord-bot](https://github.com/Semiheren05/discord-bot) | Discord moderasyon botu: ceza ve uyarı sistemi, destek talepleri, çekilişler, YouTube ve Kick duyuruları | Java 21, JDA, Gradle, GitHub Actions |
 | [C-Sharp](https://github.com/Semiheren05/C-Sharp) | Şifreli sohbet uygulaması | C#, Windows Forms |
 
 ## Sırada
