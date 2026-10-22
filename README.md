@@ -5,7 +5,6 @@ Tasarımdan backend geliştirmeye geçiyorum. **Java ve Spring Boot** ile REST A
 - 🛠️ Şu an kişisel web sitemin backend'i olan **[site-api](https://github.com/Semiheren05/site-api)** üzerinde çalışıyorum
 - 📚 Her gün bir Java alıştırması yapıp testleriyle birlikte **[java-denemeler](https://github.com/Semiheren05/java-denemeler)**'e ekliyorum (şu an 9. gün: generics, strateji deseni, `equals`/`hashCode`, exception tasarımı, `java.time`...)
 - 🖥️ Projelerimi kendi Ubuntu ev sunucumda barındırıyorum (Nginx, Cloudflare Tunnel)
-- 🎨 Tasarım geçmişim sayesinde frontend tarafının kolayca kullanabileceği, temiz ve tutarlı API'lere önem veriyorum
 
 ## Teknolojiler
 
