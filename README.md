@@ -4,7 +4,7 @@ Tasarımdan backend geliştirmeye geçiyorum. **Java ve Spring Boot** ile REST A
 
 - 🛠️ Şu an kişisel web sitemin backend'i olan **[site-api](https://github.com/Semiheren05/site-api)** üzerinde çalışıyorum
 - 🗓️ Freelance ilanlarında sık istenen türde bir proje olarak **[randevu-api](https://github.com/Semiheren05/randevu-api)**'yi geliştirdim: işletmeler için çok işletmeli online randevu sistemi
-- 📚 Her gün bir Java alıştırması yapıp testleriyle birlikte **[java-denemeler](https://github.com/Semiheren05/java-denemeler)**'e ekliyorum (şu an 27. gün: algoritmalar ve Big-O, eşzamanlılık ve virtual thread'ler, tasarım desenleri, reflection ile kendi doğrulama kütüphanem, Spring'siz mini DI kapsayıcısı, Dijkstra, kütüphanesiz JSON ayrıştırıcı, Bloom filtresi...)
+- 📚 Her gün bir Java alıştırması yapıp testleriyle birlikte **[java-denemeler](https://github.com/Semiheren05/java-denemeler)**'e ekliyorum (şu an 31. gün: algoritmalar ve Big-O, eşzamanlılık ve virtual thread'ler, tasarım desenleri, reflection ile kendi doğrulama kütüphanem, Spring'siz mini DI kapsayıcısı, Dijkstra, kütüphanesiz JSON ayrıştırıcı, Bloom filtresi, refactoring katası, singleton'ın doğru yazımları...)
 - 🖥️ Projelerimi kendi Ubuntu ev sunucumda barındırıyorum (Nginx, Cloudflare Tunnel)
 
 ## Teknolojiler
