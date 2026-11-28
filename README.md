@@ -9,7 +9,7 @@
 - 🤖 Claude Code'un alt ajanlarının ne yaptığını piksel art bir ofiste canlı gösteren **[ajan-ofisi](https://github.com/Semiheren05/ajan-ofisi)**'ni geliştirdim (hook olayları, Server-Sent Events)
 - 🗓️ Freelance ilanlarında sık istenen türde bir proje olarak **[randevu-api](https://github.com/Semiheren05/randevu-api)**'yi geliştirdim: işletmeler için çok işletmeli online randevu sistemi
 - 📚 Her gün bir Java alıştırması yapıp testleriyle birlikte **[java-denemeler](https://github.com/Semiheren05/java-denemeler)**'e ekliyorum (şu an 41. gün: algoritmalar ve Big-O, eşzamanlılık ve virtual thread'ler, tasarım desenleri, reflection ile kendi doğrulama kütüphanem, Spring'siz mini DI kapsayıcısı, Dijkstra, kütüphanesiz JSON ayrıştırıcı, Bloom filtresi, refactoring katası, deadlock ve ReentrantLock, hız sınırlayıcı algoritmaları, saat dilimleri...)
-- 🖥️ Projelerimi kendi Ubuntu ev sunucumda barındırıyorum (Nginx, Cloudflare Tunnel)
+- 🖥️ Projelerimi kendi Ubuntu ev sunucumda barındırıyorum (Docker, Nginx, Caddy)
 
 ## Teknolojiler
 
